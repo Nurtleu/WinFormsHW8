@@ -1,0 +1,11 @@
+G:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\bin\Debug\WinFormsWork8.exe.config
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\bin\Debug\WinFormsWork8.exe.config
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\bin\Debug\WinFormsWork8.exe
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\bin\Debug\WinFormsWork8.pdb
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\obj\Debug\WinFormsWork8.csprojResolveAssemblyReference.cache
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\obj\Debug\WinFormsWork8.SalesDepartment.resources
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\obj\Debug\WinFormsWork8.Properties.Resources.resources
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\obj\Debug\WinFormsWork8.csproj.GenerateResource.Cache
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\obj\Debug\WinFormsWork8.csproj.CoreCompileInputs.cache
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\obj\Debug\WinFormsWork8.exe
+D:\WindowsForms\HomeWork\WinFormsWork8\WinFormsWork8\obj\Debug\WinFormsWork8.pdb
